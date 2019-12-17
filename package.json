@@ -1,0 +1,28 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Weather forecasting application.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [
+    "Weather",
+    "forecast"
+  ],
+  "author": "Luan Mello da Silva <luan.dev.mello@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-react-views": "^0.11.0",
+    "nodemon": "^2.0.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
