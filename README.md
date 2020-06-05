@@ -1,6 +1,6 @@
 # Weather App Node
 
-Weather application create in NodeJS and ExpressJS to weather forecasts on locations from the world.
+Basic Weather application create in NodeJS and ExpressJS to weather forecasts on locations from the world.
 
 With OpenWeatherMap to get forecast a city. See more in: https://openweathermap.org/api
 
